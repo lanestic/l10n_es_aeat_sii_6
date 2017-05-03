@@ -84,6 +84,8 @@ Contributors
 ------------
 
 * Ignacio Ibeas <ignacio@acysos.com>
+* Infobit
+* Luis Gómez <luis.lanestic@gmail.com>
 
 Funders
 -------
